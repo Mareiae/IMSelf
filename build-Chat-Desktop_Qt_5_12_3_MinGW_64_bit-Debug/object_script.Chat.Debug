@@ -1,0 +1,16 @@
+debug/tcp.o
+debug/udp.o
+debug/server.o
+debug/perinfowidget.o
+debug/permesswidget.o
+debug/chatrecordwidget.o
+debug/friend.o
+debug/chat.o
+debug/main.o
+debug/mainform.o
+debug/selfinfowidget.o
+debug/qrc_resourse.o
+debug/moc_server.o
+debug/moc_perinfowidget.o
+debug/moc_permesswidget.o
+debug/moc_mainform.o

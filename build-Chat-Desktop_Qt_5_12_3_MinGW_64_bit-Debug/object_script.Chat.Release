@@ -1,0 +1,16 @@
+release/tcp.o
+release/udp.o
+release/server.o
+release/perinfowidget.o
+release/permesswidget.o
+release/chatrecordwidget.o
+release/friend.o
+release/chat.o
+release/main.o
+release/mainform.o
+release/selfinfowidget.o
+release/qrc_resourse.o
+release/moc_server.o
+release/moc_perinfowidget.o
+release/moc_permesswidget.o
+release/moc_mainform.o
